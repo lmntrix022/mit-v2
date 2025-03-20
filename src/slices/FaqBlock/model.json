@@ -1,0 +1,44 @@
+{
+  "id": "faq_block",
+  "type": "SharedSlice",
+  "name": "FaqBlock",
+  "description": "FaqBlock",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "faq": {
+          "type": "Group",
+          "config": {
+            "label": "faq",
+            "repeat": true,
+            "fields": {
+              "questions": {
+                "type": "Text",
+                "config": {
+                  "label": "Questions",
+                  "placeholder": ""
+                }
+              },
+              "answers": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Answers",
+                  "placeholder": "",
+                  "allowTargetBlank": false,
+                  "single": "heading3"
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

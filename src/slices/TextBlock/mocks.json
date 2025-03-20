@@ -1,0 +1,38 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Dolor cupidatat deserunt Lorem. Ipsum anim adipisicing tempor et voluptate est non. Id non ea exercitation nulla."
+						}
+					}
+				]
+			},
+			"cta": {
+				"__TYPE__": "FieldContent",
+				"value": "however",
+				"type": "Text"
+			},
+			"title": {
+				"__TYPE__": "FieldContent",
+				"value": "tropical",
+				"type": "Text"
+			},
+			"link": {
+				"__TYPE__": "LinkContent",
+				"key": "13a998bd-af18-43c9-97f2-e34a1a539eb8",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com"
+				}
+			}
+		},
+		"items": []
+	}
+]

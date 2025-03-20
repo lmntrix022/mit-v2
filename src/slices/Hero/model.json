@@ -1,0 +1,40 @@
+{
+  "id": "hero",
+  "type": "SharedSlice",
+  "name": "Hero",
+  "description": "Hero",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "company_name": {
+          "type": "Text",
+          "config": {
+            "label": "Company Name",
+            "placeholder": ""
+          }
+        },
+        "second_company_name": {
+          "type": "Text",
+          "config": {
+            "label": "Second Company Name",
+            "placeholder": ""
+          }
+        },
+        "tag_line": {
+          "type": "Text",
+          "config": {
+            "label": "Tag Line",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

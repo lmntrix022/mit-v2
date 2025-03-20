@@ -1,0 +1,24 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"company_name": {
+				"__TYPE__": "FieldContent",
+				"value": "harbor",
+				"type": "Text"
+			},
+			"second_company_name": {
+				"__TYPE__": "FieldContent",
+				"value": "vapor",
+				"type": "Text"
+			},
+			"tag_line": {
+				"__TYPE__": "FieldContent",
+				"value": "organized",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
