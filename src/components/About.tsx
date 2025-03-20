@@ -35,8 +35,8 @@ const About: FC = () => {
         </p>
 
         <AnimatedTitle
-          title="Des&nbsp;services&nbsp;adaptés&nbsp;&amp;apos;&nbsp;vos&nbsp;ambitions."
-          containerClass="mx-auto pointer-events-none mix-blend-difference z-10 w-1/2 text-center special-font !font-black !leading-[.9]"
+          title="Des&nbsp;services&nbsp;adaptés<br>&nbsp;vos&nbsp;ambitions."
+          containerClass="mx-auto items-center pointer-events-none mix-blend-difference z-10 w-1/2 text-center special-font !font-black !leading-[.9]"
         />
 
 
